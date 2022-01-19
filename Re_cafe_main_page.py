@@ -420,21 +420,3 @@ while True :
     else :
         print("Please Write a Valid Input From Next Time!\n")
         continue    
-
-
-# In[2]:
-
-
-import Re_cafe_function
-
-# Importing All the Functions into our Module from Re_cafe_function Module
-
-from Re_cafe_function import *
-
-
-# In[3]:
-
-
-help(Re_cafe_function)
-
-
