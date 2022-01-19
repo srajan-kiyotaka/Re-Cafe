@@ -1,0 +1,11 @@
+1109,Hot Tea,25.0
+1211,Hot Coffee,40.0
+1321,Hot Chocolate,55.0
+1415,Oreo Shake,50.0
+1499,Cold Coffee,60.0
+1545,Pastries,50.0
+1643,Ice Cream,40.0
+1717,Biscuits,30.0
+1818,coca cola,36.0
+1919,subway sandwich,55.0
+2020,Milkshake,30.0

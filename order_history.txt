@@ -1,0 +1,22 @@
+1818,coca cola,36.0,2,srajan
+1717,Biscuits,30.0,6,srajan
+1415,Oreo Shake,50.0,1,Kirito
+1499,Cold Coffee,60.0,2,Kirito
+1643,Ice Cream,40.0,3,Natsu
+1109,Hot Tea,25.0,3,Sankalp
+1919,subway sandwich,55.0,2,Izuku
+1321,Hot Chocolate,60.0,2,Izuku
+1211,Hot Coffee,40.0,2,Varun
+2020,shake,30.0,2,Edson
+1545,Pastries,50.0,2,Edson
+1818,coca cola,36.0,2,Ayaka
+1643,Ice Cream,40.0,2,Ram
+1818,coca cola,36.0,3,Raju
+1919,subway sandwich,55.0,1,Raju
+1545,Pastries,50.0,2,Raju
+1109,Hot Tea,25.0,2,sam
+1211,Hot Coffee,40.0,1,Tony
+1321,Hot Chocolate,55.0,2,Tony
+1415,Oreo Shake,50.0,1,ramu
+1109,Hot Tea,25.0,2,Ray
+1717,Biscuits,30.0,2,Ray
