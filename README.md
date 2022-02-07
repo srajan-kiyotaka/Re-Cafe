@@ -36,7 +36,7 @@ We first show the menu, then ask for order and also give them options to remove 
 
 <br>
 
-## Credentials fOR lOGIN as a Admin
+## Credentials for Login as a Admin
 
 | Admin Name   | Password                                                                |
 | ----------------- | ------------------------------------------------------------------ |
