@@ -55,5 +55,3 @@ We first show the menu, then ask for order and also give them options to remove 
 ## Members
 
  - *Srajan Chourasia*
- - *Sankalp Satpute*
- - *Ashish Osari*
